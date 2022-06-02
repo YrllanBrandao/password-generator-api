@@ -6,6 +6,8 @@ This api is used to suggest strong passwords in the registration forms
 
 This api was created for study purposes, with it you can suggest a strong password for users with variable size
 ### To view a live example of how to consume the api, go to:
+![image](https://user-images.githubusercontent.com/77467410/171579142-4fe7b3ba-7cd4-49df-b448-b84ceda6daf1.png)
+
 
 [DEMO LIVE](https://api-password-generator.herokuapp.com/password/15)
 
